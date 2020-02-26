@@ -1,1 +1,36 @@
 /* Add your CSS code here */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+    padding: 20px;
+  }
+ 
+  h1{
+      font-family: waree, Helvetica, sans-serif;
+      font-size: 45px;
+  }
+  h2{
+      font-family: freeserif, sans-serif, Arial;
+      padding: 10px;
+  }
+  p,a{
+      padding: 10px;
+  }
+  li:last-child{
+    padding-bottom: 10px;
+}
